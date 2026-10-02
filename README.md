@@ -1,16 +1,37 @@
 ## Hi there 👋
+# Hi, I'm Shraiya A 👋
 
-<!--
-**Shraiya01/Shraiya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science with Data Analytics Student  
+📊 Aspiring Data Analyst  
+💻 Interested in Data Analytics & Emerging Technologies
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming:** Python, Java
+- **Data Analytics:** Excel, SQL, Power BI
+- **Database:** MySQL
+- **Web Technologies:** HTML, CSS, JavaScript
+
+## 📚 Currently Learning
+
+- Python for Data Analysis
+- SQL for Data Analytics
+- Power BI
+- Data Cleaning & Visualization
+- R Programming Basics
+
+## 📊 Featured Project
+
+### Student Placement Intelligence & Career Readiness Analytics
+
+An analytics project focused on understanding student placement trends, department-wise placement performance, and career readiness factors.
+
+**Tools:** Excel | MySQL | Power BI
+
+## 🎯 Career Goal
+
+To build strong practical skills in Data Analytics and work on real-world data-driven projects.
+
+## 📫 Connect With Me
+
+- GitHub: [@Shraiya01](https://github.com/Shraiya01)
